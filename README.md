@@ -1,11 +1,14 @@
 <p align="center">
   <picture>
-  <source
-    srcset="[https://github.com/alexgravx/alexgravx/blob/main/header-alex.png header-profile.png](https://github.com/InesLalou/InesLalou/blob/main/header-profile.png)"
-    media="(prefers-color-scheme: dark)"
-  />
+    <source 
+      srcset="https://github.com/InesLalou/InesLalou/blob/main/header-profile.png?raw=true" 
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="https://github.com/InesLalou/InesLalou/blob/main/header-profile.png?raw=true" 
+      alt="Header image">
   </picture>
 </p>
+
 
 <!--
 **InesLalou/InesLalou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
