@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+  <source
+    srcset="[https://github.com/alexgravx/alexgravx/blob/main/header-alex.png header-profile.png](https://github.com/InesLalou/InesLalou/blob/main/header-profile.png)"
+    media="(prefers-color-scheme: dark)"
+  />
+  </picture>
+</p>
 
 <!--
 **InesLalou/InesLalou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
