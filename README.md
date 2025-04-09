@@ -9,32 +9,32 @@
   </picture>
 </p>
 
-Hey there 👋
+# Hey there 👋
 
+## 💻 My Programming Skills
+- **Python**, **SQL**, **Matlab**, **Java**, **C++**
 
+## 🤖 Machine Learning Tools
+- **PyTorch**, **TensorFlow**, **Scikit-learn**, **Numpy**, **Pandas**, **Matplotlib**
 
-💻 My Programming Skills
-Python, SQL, Matlab, Java, C++
+## 🌍 Languages
+- **French** (Native)  
+- **English** (C1)  
+- **Spanish** (B1)
 
-🤖 Machine Learning Tools
-PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib
+## 🧠 Soft Skills
+- **Strong communicator** 📣  
+- **Team player** 🤝  
+- **Lifelong learner** 📚
 
-🌍 Languages
-French (Native)
-English (C1)
-Spanish (B1)
+## 🎶 My Interests
+- **Music**: 10 years of transverse flute and playing in orchestras 🎵  
+- **International Experience**: 5 years living in Qatar and Thailand 🌍  
+- **Humanitarian Work**: Active member of the Humanitarian Student Association, involved in outreach initiatives 🤝
 
-🧠 Soft Skills
-Strong communicator
-Team player
-Lifelong learner 
-
-🎶 My Interests
-Music: 10 years of transverse flute and playing in orchestras 🎵
-International Experience: 5 years living in Qatar and Thailand 🌍
-Humanitarian Work: Active member of the Humanitarian Student Association, involved in outreach initiatives 🤝
-
-📫 How to reach me: ines.lalou@outlook.com
+## 📫 How to reach me:
+Feel free to reach out via [email](mailto:ines.lalou@outlook.com)!
+ 
 
 <!--
 **InesLalou/InesLalou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
