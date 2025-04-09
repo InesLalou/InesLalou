@@ -11,7 +11,7 @@
 
 # Hey there 👋
 
-I’m an AI student with a passion for data science and machine learning. I’m excited to bring my skills and energy to dynamic teams and innovative projects. Here’s a little more about me!
+I’m an AI student at Télécom Paris with a passion for data science and machine learning. I’m excited to bring my skills and energy to dynamic teams and innovative projects. Here’s a little more about me!
 
 ## 💻 My Programming Skills
 - **Python**, **SQL**, **Matlab**, **Java**, **C++**
