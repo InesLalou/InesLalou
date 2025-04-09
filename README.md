@@ -10,31 +10,28 @@
 </p>
 
 Hey there 👋
+
+
+
 💻 My Programming Skills
 Python, SQL, Matlab, Java, C++
 
 🤖 Machine Learning Tools
 PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib
 
-🧠 Soft Skills
-Strong communication skills
-
-Team player
-
-Curious & detail-oriented
-
 🌍 Languages
 French (Native)
-
-English (C1: 975/990 TOEIC)
-
+English (C1)
 Spanish (B1)
+
+🧠 Soft Skills
+Strong communicator
+Team player
+Lifelong learner 
 
 🎶 My Interests
 Music: 10 years of transverse flute and playing in orchestras 🎵
-
 International Experience: 5 years living in Qatar and Thailand 🌍
-
 Humanitarian Work: Active member of the Humanitarian Student Association, involved in outreach initiatives 🤝
 
 📫 How to reach me: ines.lalou@outlook.com
