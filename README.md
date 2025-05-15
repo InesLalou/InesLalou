@@ -9,30 +9,20 @@
   </picture>
 </p>
 
-# Hey there 👋
+# Hi there 👋
 
 I’m an AI student at Télécom Paris with a passion for data science and machine learning. I’m excited to bring my skills and energy to dynamic teams and innovative projects. Here’s a little more about me!
 
 ## 💻 My Programming Skills
-- **Python**, **SQL**, **Matlab**, **Java**, **C++**
+- **Python**, **SQL**, **Java**, **C++**, **Matlab**
 
-## 🤖 Machine Learning Tools
-- **PyTorch**, **TensorFlow**, **Scikit-learn**, **Numpy**, **Pandas**, **Matplotlib**
+## Machine Learning Tools
+- **PyTorch**, **TensorFlow**, **Scikit-learn**, **Numpy**, **Pandas**, **Matplotlib**, ...
 
 ## 🌍 Languages
 - **French** (Native)  
 - **English** (C1)  
 - **Spanish** (B1)
-
-## 🧠 Soft Skills
-- **Strong communicator** 📣  
-- **Team player** 🤝  
-- **Lifelong learner** 📚
-
-## 🎶 My Interests
-- **Music**: 10 years of transverse flute and playing in orchestras 🎵  
-- **International Experience**: 5 years living in Qatar and Thailand 🌍  
-- **Humanitarian Work**: Active member of the Humanitarian Student Association, involved in outreach initiatives 🤝
 
 ## 📫 How to reach me:
 Feel free to reach out via [email](mailto:ines.lalou@outlook.com)!
