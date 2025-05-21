@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github.com/InesLalou/InesLalou/blob/main/header-profile.png?raw=true" 
+      srcset="https://github.com/InesLalou/InesLalou/blob/main/header-profile-2.png?raw=true" 
       media="(prefers-color-scheme: dark)">
     <img 
       src="https://github.com/InesLalou/InesLalou/blob/main/header-profile.png?raw=true" 
