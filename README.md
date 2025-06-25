@@ -13,18 +13,18 @@
 
 I’m an AI student at Télécom Paris with a passion for data science and machine learning. I’m excited to bring my skills and energy to dynamic teams and innovative projects. Here’s a little more about me!
 
-## 💻 My Programming Skills
+## My Programming Skills
 - **Python**, **SQL**, **Java**, **C++**, **Matlab**
 
 ## Machine Learning Tools
 - **PyTorch**, **TensorFlow**, **Scikit-learn**, **Numpy**, **Pandas**, **Matplotlib**, ...
 
-## 🌍 Languages
+## Languages
 - **French** (Native)  
 - **English** (C1)  
 - **Spanish** (B1)
 
-## 📫 How to reach me:
+## How to reach me:
 Feel free to reach out via [email](mailto:ines.lalou@outlook.com)!
  
 
