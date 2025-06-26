@@ -1,14 +1,3 @@
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github.com/InesLalou/InesLalou/blob/main/header-profile-2.png?raw=true" 
-      media="(prefers-color-scheme: dark)">
-    <img 
-      src="https://github.com/InesLalou/InesLalou/blob/main/header-profile.png?raw=true" 
-      alt="Header image">
-  </picture>
-</p>
-
 # Hi there 👋
 
 I’m an AI student at Télécom Paris with a passion for data science and machine learning. I’m excited to bring my skills and energy to dynamic teams and innovative projects. Here’s a little more about me!
