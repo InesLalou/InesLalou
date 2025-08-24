@@ -8,11 +8,6 @@ I’m an AI student at Télécom Paris with a passion for data science and machi
 ## Machine Learning Tools
 - **PyTorch**, **TensorFlow**, **Scikit-learn**, **Numpy**, **Pandas**, **Matplotlib**, ...
 
-## Languages
-- **French** (Native)  
-- **English** (C1)  
-- **Spanish** (B1)
-
 ## How to reach me:
 Feel free to reach out via [email](mailto:ines.lalou@outlook.com)!
  
