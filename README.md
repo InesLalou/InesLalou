@@ -1,6 +1,7 @@
 # Hi there 👋
 
-AI student at Télécom Paris, with a growing interest in applying it to biology. I'm currently working on single-cell foundation models at Institut Pasteur, exploring how spatial context can improve our understanding of cell behavior.
+I'm Ines, an AI student at Télécom Paris, with a growing interest in applying it to biology. I'm currently working on single-cell foundation models at Institut Pasteur, exploring how spatial context can improve our understanding of cell behavior.
+
 I’m excited to bring my skills and energy to dynamic teams and projects. Here’s a little more about me!
 
 ## My Programming Skills
