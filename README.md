@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I’m an AI student at Télécom Paris with a passion for data science and machine learning. I’m excited to bring my skills and energy to dynamic teams and innovative projects. Here’s a little more about me!
+AI student at Télécom Paris, with a growing interest in applying it to biology. I'm currently working on single-cell foundation models at Institut Pasteur, exploring how spatial context can improve our understanding of cell behavior.
+I’m excited to bring my skills and energy to dynamic teams and projects. Here’s a little more about me!
 
 ## My Programming Skills
 - **Python**, **SQL**, **Java**, **C++**, **Matlab**
